@@ -1,7 +1,3 @@
-Here is the README for the IMDB Movie Database project:
-
----
-
 # IMDB Movie Database
 
 **Created by Jackson Hill**
